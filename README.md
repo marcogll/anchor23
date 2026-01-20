@@ -261,4 +261,26 @@ Para detalles completos, precios exactos y descripciones, consulta [servicios.md
 
 ---
 
+## 19. 🖥️ Tecnología y Sistema Operativo
+
+Anchor:23 opera bajo un sistema propietario de gestión diseñado específicamente para estudios de belleza de ultra lujo: AnchorOS. Este motor exclusivo coordina personas, recursos físicos, pagos, privilegios y datos bajo reglas estrictas de control y privacidad.
+
+### Componentes del Sistema AnchorOS
+- **anchor23.mx (Frontend Institucional)**: Sitio web público que presenta la marca, servicios, historia y formularios de contacto/franquicias. Gestiona la conversión inicial de visitantes a potenciales clientes.
+- **The Boutique (Sistema de Reservas)**: Frontend dedicado a reservas donde los clientes pueden seleccionar servicios, elegir horarios disponibles y completar pagos de depósito. Incluye registro de nuevos clientes y gestión de perfiles.
+- **The HQ / Aperture (Backend Administrativo)**: Dashboard interno para gerencia y staff. Incluye calendario maestro con drag & drop, gestión de personal (CRUD, nómina, comisiones), CRM de clientes con fidelización, punto de venta (POS), finanzas y reportes. Proporciona visión completa de operaciones y métricas clave.
+- **The Kiosk (Sistema de Autoservicio)**: Interfaces táctiles en sucursales para confirmación de citas existentes y reservas walk-in. Simplifica el proceso operativo sin intervención manual constante.
+
+### Funciones Principales de AnchorOS
+- **Gestión Operativa**: Optimización del uso de estaciones físicas y control de crecimiento mediante invitaciones selectivas.
+- **CRM Exclusivo**: Protección de la base de datos de clientes con niveles de acceso jerárquicos (VIP, Black, Gold).
+- **Sistema de Reservas**: Motor de agendamiento que garantiza rentabilidad en días de alta demanda.
+- **Kioskos de Autoservicio**: Facilitan confirmaciones de citas y reservas walk-in en sucursales.
+- **Dashboard Administrativo (The HQ)**: Herramientas completas para gestión de staff, finanzas, calendario maestro y fidelización.
+- **Integraciones Seguras**: Conexiones con Stripe para pagos, Google Calendar para sincronización y WhatsApp para notificaciones.
+
+El sistema está construido con tecnologías modernas incluyendo Next.js, Supabase y Stripe, asegurando máxima seguridad y eficiencia operativa.
+
+---
+
 Fin del manual de marca Anchor:23.
