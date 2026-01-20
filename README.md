@@ -200,7 +200,33 @@ Se demuestra en cada detalle.
 
 ---
 
-## 17. Links de Prueba
+## 17. Servicios
+
+Anchor:23 ofrece una gama de experiencias estéticas exclusivas, detalladas en [servicios.md](servicios.md). A continuación, un resumen general por categoría:
+
+### Core Experiences
+Experiencias fundamentales centradas en rituales para manos y pies, promoviendo presencia y descanso. Incluye 6 servicios con duraciones de 75-210 minutos y precios entre $1,400 y $3,800 MXN.
+
+### Nail Couture
+Enfoque en técnicas invisibles para resultados impecables y naturales. No se ofrecen retoques; todo se integra en la experiencia.
+
+### Hair Finishing Rituals
+Rituales de secado y planchado disponibles solo para clientas con experiencia Anchor el mismo día. Incluye 2 servicios con precios de $900 a $1,100 MXN.
+
+### Lash & Brow Rituals
+Rituales para definir la mirada con sutileza. Incluye 4 servicios con precios de $1,300 a $2,400 MXN.
+
+### Event Experiences
+Experiencias especiales para eventos, incluyendo maquillaje, peinado y paquetes nupciales. Incluye 6 servicios con precios de $1,800 a $8,000+ MXN.
+
+### Permanent Rituals
+Rituales permanentes especializados con agenda limitada. Incluye 2 servicios con precios de $7,500 a $8,500 MXN.
+
+Para detalles completos, precios exactos y descripciones, consulta [servicios.md](servicios.md).
+
+---
+
+## 18. Links de Prueba
 
 ### Frontend Institucional (anchor23.mx)
 - https://anchoros.soul23.cloud/ - Landing page con hero, fundamento, servicios y testimoniales.
