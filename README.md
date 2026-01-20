@@ -135,15 +135,15 @@ Nunca gestual. Nunca decorativa.
 
 ---
 
-## 12. Paleta de Color
+## 12. Paleta de Color (GitHub Compatible)
 
-| Color                                                                                                       | Nombre         | Hex       |
-| ----------------------------------------------------------------------------------------------------------- | -------------- | --------- |
-| <span style="display:inline-block;width:24px;height:24px;background:#F6F1EC;border:1px solid #ccc;"></span> | Bone White     | `#F6F1EC` |
-| <span style="display:inline-block;width:24px;height:24px;background:#EFE7DE;border:1px solid #ccc;"></span> | Soft Cream     | `#EFE7DE` |
-| <span style="display:inline-block;width:24px;height:24px;background:#B8A89A;border:1px solid #ccc;"></span> | Mocha Taupe    | `#B8A89A` |
-| <span style="display:inline-block;width:24px;height:24px;background:#6F5E4F;border:1px solid #ccc;"></span> | Deep Earth     | `#6F5E4F` |
-| <span style="display:inline-block;width:24px;height:24px;background:#3F362E;border:1px solid #ccc;"></span> | Charcoal Brown | `#3F362E` |
+| Swatch                                                       | Nombre         | Hex       |
+| ------------------------------------------------------------ | -------------- | --------- |
+| ![#F6F1EC](https://via.placeholder.com/24/F6F1EC/F6F1EC.png) | Bone White     | `#F6F1EC` |
+| ![#EFE7DE](https://via.placeholder.com/24/EFE7DE/EFE7DE.png) | Soft Cream     | `#EFE7DE` |
+| ![#B8A89A](https://via.placeholder.com/24/B8A89A/B8A89A.png) | Mocha Taupe    | `#B8A89A` |
+| ![#6F5E4F](https://via.placeholder.com/24/6F5E4F/6F5E4F.png) | Deep Earth     | `#6F5E4F` |
+| ![#3F362E](https://via.placeholder.com/24/3F362E/3F362E.png) | Charcoal Brown | `#3F362E` |
 
 Uso contenido. Sin saturación. Sin gradientes.
 
