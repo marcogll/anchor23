@@ -76,21 +76,21 @@ Anchor:23 no escala por volumen. Escala por selección.
 
 ## 7. Valores
 
-- Exclusividad — El acceso es limitado por diseño.
-- Excelencia — El estándar es alto y sostenido.
-- Selección — Clientes y equipo cumplen criterios claros.
-- Sobriedad — El lujo se expresa con medida.
-- Consistencia — La experiencia es siempre la misma.
+* Exclusividad — El acceso es limitado por diseño.
+* Excelencia — El estándar es alto y sostenido.
+* Selección — Clientes y equipo cumplen criterios claros.
+* Sobriedad — El lujo se expresa con medida.
+* Consistencia — La experiencia es siempre la misma.
 
 ---
 
 ## 8. Personalidad de Marca
 
-- Sobria
-- Precisa
-- Selectiva
-- Elegante
-- Reservada
+* Sobria
+* Precisa
+* Selectiva
+* Elegante
+* Reservada
 
 Anchor:23 no busca agradar a todos.
 
@@ -108,15 +108,15 @@ Selecciona, eleva estándares y protege la experiencia.
 
 ### Voz
 
-- Clara
-- Breve
-- Profesional
+* Clara
+* Breve
+* Profesional
 
 ### Tono
 
-- Seguro
-- Reservado
-- Elegante
+* Seguro
+* Reservado
+* Elegante
 
 Sin adornos. Sin exageraciones.
 
@@ -126,10 +126,10 @@ Sin adornos. Sin exageraciones.
 
 ### Principios
 
-- Geometría clara
-- Centro de gravedad estable
-- Amplio espacio negativo
-- Composición silenciosa
+* Geometría clara
+* Centro de gravedad estable
+* Amplio espacio negativo
+* Composición silenciosa
 
 Nunca gestual. Nunca decorativa.
 
@@ -137,11 +137,13 @@ Nunca gestual. Nunca decorativa.
 
 ## 12. Paleta de Color
 
-- Bone White `#F6F1EC`
-- Soft Cream `#EFE7DE`
-- Mocha Taupe `#B8A89A`
-- Deep Earth `#6F5E4F`
-- Charcoal Brown `#3F362E`
+| Color                                                                                                       | Nombre         | Hex       |
+| ----------------------------------------------------------------------------------------------------------- | -------------- | --------- |
+| <span style="display:inline-block;width:24px;height:24px;background:#F6F1EC;border:1px solid #ccc;"></span> | Bone White     | `#F6F1EC` |
+| <span style="display:inline-block;width:24px;height:24px;background:#EFE7DE;border:1px solid #ccc;"></span> | Soft Cream     | `#EFE7DE` |
+| <span style="display:inline-block;width:24px;height:24px;background:#B8A89A;border:1px solid #ccc;"></span> | Mocha Taupe    | `#B8A89A` |
+| <span style="display:inline-block;width:24px;height:24px;background:#6F5E4F;border:1px solid #ccc;"></span> | Deep Earth     | `#6F5E4F` |
+| <span style="display:inline-block;width:24px;height:24px;background:#3F362E;border:1px solid #ccc;"></span> | Charcoal Brown | `#3F362E` |
 
 Uso contenido. Sin saturación. Sin gradientes.
 
@@ -165,10 +167,10 @@ Mucho aire. Jerarquía estricta.
 
 Anchor:23 se vive como:
 
-- Acceso limitado
-- Atención altamente profesional
-- Protocolos definidos
-- Ambiente sobrio y refinado
+* Acceso limitado
+* Atención altamente profesional
+* Protocolos definidos
+* Ambiente sobrio y refinado
 
 La experiencia no se negocia.
 
@@ -198,4 +200,4 @@ Se demuestra en cada detalle.
 
 ---
 
-Fin del manual de marca Anchor:23.# anchor23
+Fin del manual de marca Anchor:23.
