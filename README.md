@@ -139,11 +139,11 @@ Nunca gestual. Nunca decorativa.
 
 | Swatch                                                       | Nombre         | Hex       |
 | ------------------------------------------------------------ | -------------- | --------- |
-| ![#F6F1EC](https://via.placeholder.com/24/F6F1EC/F6F1EC.png) | Bone White     | `#F6F1EC` |
-| ![#EFE7DE](https://via.placeholder.com/24/EFE7DE/EFE7DE.png) | Soft Cream     | `#EFE7DE` |
-| ![#B8A89A](https://via.placeholder.com/24/B8A89A/B8A89A.png) | Mocha Taupe    | `#B8A89A` |
-| ![#6F5E4F](https://via.placeholder.com/24/6F5E4F/6F5E4F.png) | Deep Earth     | `#6F5E4F` |
-| ![#3F362E](https://via.placeholder.com/24/3F362E/3F362E.png) | Charcoal Brown | `#3F362E` |
+| ![Bone White](assets/colors/bone-white.png)                 | Bone White     | `#F6F1EC` |
+| ![Soft Cream](assets/colors/soft-cream.png)                 | Soft Cream     | `#EFE7DE` |
+| ![Mocha Taupe](assets/colors/mocha-taupe.png)               | Mocha Taupe    | `#B8A89A` |
+| ![Deep Earth](assets/colors/deep-earth.png)                 | Deep Earth     | `#6F5E4F` |
+| ![Charcoal Brown](assets/colors/charcoal-brown.png)         | Charcoal Brown | `#3F362E` |
 
 Uso contenido. Sin saturación. Sin gradientes.
 
