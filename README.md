@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Origen de la Marca
+## 1. 🌟 Origen de la Marca
 
 Anchor:23 nace de la unión de **dos creativos** con trayectorias distintas y un criterio común: el lujo no es promesa, es estándar.
 
@@ -12,7 +12,7 @@ No es una extensión de otra marca. No es una evolución emocional. Es un concep
 
 ---
 
-## 2. Significado del Nombre
+## 2. 🔤 Significado del Nombre
 
 ### Anchor
 
@@ -46,7 +46,7 @@ Debe percibirlo en la experiencia: continuidad, calma y seguridad.
 
 ---
 
-## 3. Categoría
+## 3. 🏷️ Categoría
 
 Belleza de ultra lujo.
 
@@ -54,19 +54,19 @@ Anchor:23 opera como un **concepto exclusivo**, no masivo, con un estándar de s
 
 ---
 
-## 4. Propósito
+## 4. 🎯 Propósito
 
 Ofrecer una experiencia estética exclusiva basada en precisión técnica, coherencia visual y ejecución constante.
 
 ---
 
-## 5. Visión
+## 5. 👁️ Visión
 
 Ser el referente local de belleza ultra exclusiva, reconocido por su nivel de servicio, selección rigurosa y consistencia impecable.
 
 ---
 
-## 6. Misión
+## 6. 🚀 Misión
 
 Operar un concepto de salón de ultra lujo con **una sola sucursal por ciudad**, ajustada al tamaño del mercado, para preservar exclusividad, estándar y coherencia de experiencia.
 
@@ -74,29 +74,29 @@ Anchor:23 no escala por volumen. Escala por selección.
 
 ---
 
-## 7. Valores
+## 7. 💎 Valores
 
-* Exclusividad — El acceso es limitado por diseño.
-* Excelencia — El estándar es alto y sostenido.
-* Selección — Clientes y equipo cumplen criterios claros.
-* Sobriedad — El lujo se expresa con medida.
-* Consistencia — La experiencia es siempre la misma.
+* 🌟 Exclusividad — El acceso es limitado por diseño.
+* 🏆 Excelencia — El estándar es alto y sostenido.
+* 🎯 Selección — Clientes y equipo cumplen criterios claros.
+* 🎩 Sobriedad — El lujo se expresa con medida.
+* 🔄 Consistencia — La experiencia es siempre la misma.
 
 ---
 
-## 8. Personalidad de Marca
+## 8. 🎭 Personalidad de Marca
 
-* Sobria
-* Precisa
-* Selectiva
-* Elegante
-* Reservada
+* 🎩 Sobria
+* 📏 Precisa
+* 🎯 Selectiva
+* 👑 Elegante
+* 🔒 Reservada
 
 Anchor:23 no busca agradar a todos.
 
 ---
 
-## 9. Arquetipo
+## 9. 🛡️ Arquetipo
 
 **El Curador**
 
@@ -104,7 +104,7 @@ Selecciona, eleva estándares y protege la experiencia.
 
 ---
 
-## 10. Voz y Tono
+## 10. 🗣️ Voz y Tono
 
 ### Voz
 
@@ -122,20 +122,20 @@ Sin adornos. Sin exageraciones.
 
 ---
 
-## 11. Identidad Visual
+## 11. 🎨 Identidad Visual
 
 ### Principios
 
-* Geometría clara
-* Centro de gravedad estable
-* Amplio espacio negativo
-* Composición silenciosa
+* 📐 Geometría clara
+* ⚖️ Centro de gravedad estable
+* 🌫️ Amplio espacio negativo
+* 🤫 Composición silenciosa
 
 Nunca gestual. Nunca decorativa.
 
 ---
 
-## 12. Paleta de Color (GitHub Compatible)
+## 12. 🌈 Paleta de Color (GitHub Compatible)
 
 | Swatch                                                       | Nombre         | Hex       |
 | ------------------------------------------------------------ | -------------- | --------- |
@@ -149,7 +149,7 @@ Uso contenido. Sin saturación. Sin gradientes.
 
 ---
 
-## 13. Tipografía
+## 13. 🔤 Tipografía
 
 ### Headings
 
@@ -163,20 +163,20 @@ Mucho aire. Jerarquía estricta.
 
 ---
 
-## 14. Experiencia de Marca
+## 14. ✨ Experiencia de Marca
 
 Anchor:23 se vive como:
 
-* Acceso limitado
-* Atención altamente profesional
-* Protocolos definidos
-* Ambiente sobrio y refinado
+* 🚫 Acceso limitado
+* 👩‍💼 Atención altamente profesional
+* 📋 Protocolos definidos
+* 🏛️ Ambiente sobrio y refinado
 
 La experiencia no se negocia.
 
 ---
 
-## 15. Presencia Digital
+## 15. 🌐 Presencia Digital
 
 ### anchor23.mx
 
@@ -192,7 +192,7 @@ Sistema táctil en sucursal (The Kiosk).
 
 ---
 
-## 16. Principio Rector
+## 16. 🏛️ Principio Rector
 
 La exclusividad no se declara.
 
@@ -200,7 +200,7 @@ Se demuestra en cada detalle.
 
 ---
 
-## 17. Servicios
+## 17. 💅 Servicios
 
 Anchor:23 ofrece una gama de experiencias estéticas exclusivas, detalladas en [servicios.md](servicios.md). A continuación, un resumen general por categoría:
 
@@ -226,7 +226,7 @@ Para detalles completos, precios exactos y descripciones, consulta [servicios.md
 
 ---
 
-## 18. Links de Prueba
+## 18. 🔗 Links de Prueba
 
 ### Frontend Institucional (anchor23.mx)
 - https://anchoros.soul23.cloud/ - Landing page con hero, fundamento, servicios y testimoniales.
