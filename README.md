@@ -192,7 +192,23 @@ Sistema táctil en sucursal (The Kiosk).
 
 ---
 
-## 16. 🏛️ Principio Rector
+## 16. 🏢 The HQ (aperture.anchor23.mx)
+
+The HQ, also known as Aperture, is the internal administrative dashboard for management and staff at Anchor:23. It provides a comprehensive view of operations, key metrics, and tools for efficient salon management.
+
+### Key Features
+- **Dashboard Home**: Overview with KPIs, top performers, and activity feed.
+- **Master Calendar**: Drag & drop calendar with filters for scheduling and resource management.
+- **Staff Management**: CRUD operations for staff, commissions, and payroll.
+- **Client CRM**: Customer relationship management with loyalty programs (Gold, Black, VIP).
+- **Point of Sale (POS)**: Sales processing and cash register closure.
+- **Finance and Reports**: Financial management and reporting tools.
+
+The HQ ensures operational excellence, data privacy, and strict control over the exclusive client experience.
+
+---
+
+## 17. 🏛️ Principio Rector
 
 La exclusividad no se declara.
 
@@ -200,7 +216,7 @@ Se demuestra en cada detalle.
 
 ---
 
-## 17. 💅 Servicios
+## 18. 💅 Servicios
 
 Anchor:23 ofrece una gama de experiencias estéticas exclusivas, detalladas en [servicios.md](servicios.md). A continuación, un resumen general por categoría:
 
@@ -226,7 +242,7 @@ Para detalles completos, precios exactos y descripciones, consulta [servicios.md
 
 ---
 
-## 18. 🔗 Links de Prueba
+## 19. 🔗 Links de Prueba
 
 ### Frontend Institucional (anchor23.mx)
 - https://anchoros.soul23.cloud/ - Landing page con hero, fundamento, servicios y testimoniales.
@@ -261,7 +277,7 @@ Para detalles completos, precios exactos y descripciones, consulta [servicios.md
 
 ---
 
-## 19. 🖥️ Tecnología y Sistema Operativo
+## 20. 🖥️ Tecnología y Sistema Operativo
 
 Anchor:23 opera bajo un sistema propietario de gestión diseñado específicamente para estudios de belleza de ultra lujo: AnchorOS. Este motor exclusivo coordina personas, recursos físicos, pagos, privilegios y datos bajo reglas estrictas de control y privacidad.
 
