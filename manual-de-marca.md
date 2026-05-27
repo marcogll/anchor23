@@ -57,11 +57,9 @@ No se explica. No se enfatiza. Comunica estructura.
 
 ![Signo 23 — código interno de la marca](assets/images/manual-marca-numero-23.png)
 
-El 23 es un código interno. Remite a una idea de dirección, cuidado y constancia entendida de forma cultural y personal, no declarativa. No se presenta como mensaje ni como símbolo explícito.
+El número 23 hace referencia al Salmo 23: "El Señor es mi pastor, nada me faltará".
 
-No se comunica hacia afuera. Opera como fundamento silencioso del concepto.
-
-El cliente no debe entenderlo. Debe percibirlo en la experiencia: continuidad, calma y seguridad.
+Simboliza una idea de dirección, cuidado y constancia entendida de forma cultural y personal. Opera como el fundamento silencioso del concepto: el cliente no necesita conocer el origen, pero debe percibirlo en la experiencia a través de la continuidad, calma y seguridad.
 
 ---
 
