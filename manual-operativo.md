@@ -98,7 +98,7 @@
 
 ## 1.1 Qué es Anchor:23
 
-Anchor:23 es un concepto de belleza de ultra lujo diseñado para clientes que no están buscando un salón. Están buscando un estándar.
+Anchor:23 es un concepto de belleza de ultra lujo diseñado para clientes que no están buscando un salón. Están buscando un estándar. El número 23 hace referencia al Salmo 23 ("El Señor es mi pastor, nada me faltará"), representando la dirección, el cuidado y la constancia que definen nuestra operación.
 
 No opera por volumen. No compite por precio. No busca audiencias masivas. Cada decisión operativa, desde el acomodo de la estación hasta el silencio del espacio, está diseñada para sostener un solo principio: **la experiencia no se negocia.**
 
